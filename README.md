@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 # K DIVYA
@@ -255,7 +255,6 @@ I learn by understanding the concept first, implementing it myself, testing the 
 
 </div>
 
----
 
 <div align="center">
 
