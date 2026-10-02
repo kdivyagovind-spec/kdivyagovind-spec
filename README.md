@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=HEY%2C+I'M+K+DIVYA+%E2%9C%A6;A+CSE+(AI+%26+ML)+STUDENT;STUDYING+AT+REVA+UNIVERSITY%2C+BENGALURU;%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94;%F0%9F%91%8B+WELCOME+TO+MY+GITHUB;%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94;WHERE+I+LEARN+%C2%B7+BUILD+%C2%B7+DEBUG+%C2%B7+EVOLVE" alt="K Divya - GitHub Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=HEY%2C+I'M+K+DIVYA+%E2%9C%A6;A+CSE+(AI+%26+ML)+STUDENT;%F0%9F%91%8B+WELCOME+TO+MY+GITHUB;WHERE+I+LEARN+%C2%B7+BUILD+%C2%B7+DEBUG+%C2%B7+EVOLVE" alt="K Divya - GitHub Introduction" />
 
 <br><br>
 
@@ -18,6 +18,7 @@
 </a>
 
 </div>
+
 
 ---
 
