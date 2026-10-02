@@ -1,30 +1,27 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:05070D,50:0B1824,100:123B4A&amp;text=K%20DIVYA&amp;fontColor=E6F7FF&amp;fontSize=52&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=CSE%20(AI%20%26%20ML)%20%7C%20REVA%20University%2C%20Bengaluru&amp;descAlignY=62&amp;descSize=17&amp;font=Montserrat" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:05070D,50:0B1824,100:123B4A&text=K%20DIVYA&fontColor=E6F7FF&fontSize=52&fontAlignY=38&animation=fadeIn&desc=CSE%20(AI%20%26%20ML)%20%7C%20REVA%20University%2C%20Bengaluru&descAlignY=62&descSize=17&font=Montserrat" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;duration=2500&amp;pause=700&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=LEARN+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+EVOLVE;CSE+(AI+%26+ML)+STUDENT;BUILDING+%26+LEARNING%2C+ONE+ITERATION+AT+A+TIME" alt="Animated identity" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+EVOLVE;CSE+(AI+%26+ML)+STUDENT;BUILDING+%26+LEARNING%2C+ONE+ITERATION+AT+A+TIME" alt="Animated identity" />
 
 <br><br>
 
 <a href="https://github.com/kdivyagovind-spec">
-<img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&amp;logo=github&amp;logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 &nbsp;
 <a href="mailto:kdivyagovind@gmail.com">
-<img src="https://img.shields.io/badge/Email-05070D?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Email-05070D?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
 </a>
 
 </div>
-
----
-
-<div align="center">
 
 ## `01` · ABOUT ME
 
