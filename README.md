@@ -1,12 +1,9 @@
 
 <div align="center">
 
-# K DIVYA
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=K+DIVYA;CSE+(AI+%26+ML)+STUDENT;REVA+UNIVERSITY%2C+BENGALURU;WELCOME+TO+MY+GITHUB+%E2%9C%A6;WHERE+I+LEARN+%C2%B7+BUILD+%C2%B7+DEBUG+%C2%B7+EVOLVE" alt="K Divya - Animated Introduction" />
 
-### CSE (AI & ML) Student
-**REVA University, Bengaluru**
-
-<br>
+<br><br>
 
 <a href="https://github.com/kdivyagovind-spec">
 <img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=58A6FF" />
@@ -24,13 +21,15 @@
 
 ---
 
-## 👋 `01` · ABOUT ME
+
+
+##  `01` · ABOUT ME
 
 I am a B.Tech CSE (AI & ML) student at REVA University, Bengaluru, with a strong interest in Computer Science, problem solving, and software development. Currently, I am strengthening my foundations in *DSA, Core CS, web development, and AI/ML* while building practical projects and continuously expanding my technical skills.
 
 ---
 
-## 🎯 `02` · RIGHT NOW
+##  `02` · RIGHT NOW🎯
 
 - 🎯 DSA, algorithms, and problem solving are my current focus
 - 🌐 Building projects while learning Java, Python, and React
@@ -40,7 +39,7 @@ I am a B.Tech CSE (AI & ML) student at REVA University, Bengaluru, with a strong
 
 ---
 
-## 🧰 `03` · TECH STACK
+##  `03` · TECH STACK⚡
 
 <div align="center">
 
@@ -68,7 +67,7 @@ I am a B.Tech CSE (AI & ML) student at REVA University, Bengaluru, with a strong
 
 ---
 
-## ⚡ `04` · BUILDS
+##  `04` · BUILDS
 
 ### A few things I've built while learning and experimenting
 
@@ -77,7 +76,7 @@ I am a B.Tech CSE (AI & ML) student at REVA University, Bengaluru, with a strong
 
 <td width="50%" valign="top" bgcolor="#0D1117">
 
-### 🏋️ FITLOG
+###  🏋️ FITLOG
 
 **Fitness planning & workout management platform**
 
@@ -132,7 +131,7 @@ A programming project built while strengthening C fundamentals and structured pr
 
 ---
 
-## 🧭 `05` · HOW I LEARN
+##  `05` · HOW I LEARN🧭
 
 ### `UNDERSTAND` → `IMPLEMENT` → `TEST` → `TRACE` → `REFINE`
 
@@ -140,7 +139,7 @@ I learn by understanding the concept first, implementing it myself, testing the 
 
 ---
 
-## 🧩 `06` · WHERE THE PIECES CONNECT
+##  `06` · WHERE THE PIECES CONNECT🧩
 
 <table>
 <tr>
@@ -194,7 +193,7 @@ I learn by understanding the concept first, implementing it myself, testing the 
 
 ---
 
-## 🛣️ `07` · THE NEXT ITERATION
+##  `07` · THE NEXT ITERATION🛣️
 
 ### `01` — 🧠 DEEPEN
 
@@ -228,18 +227,18 @@ I learn by understanding the concept first, implementing it myself, testing the 
 
 ---
 
-## 🧠 `08` · THE MINDSET
+##  `08` · THE MINDSET🧠
 
 > **LEARN → BUILD → DEBUG → EVOLVE**
 
-- 🔍 **Learn with curiosity** — understand before rushing to implement
-- 🛠️ **Build with intent** — turn concepts into something practical
-- 🐛 **Debug with patience** — treat mistakes as part of the process
-- 🔄 **Evolve through iteration** — improve with every attempt
+- 🔍 **Learn with curiosity** 
+- 🛠️ **Build with intent** 
+- 🐛 **Debug with patience** 
+- 🔄 **Evolve through iteration** 
 
 ---
 
-## 📊 `09` · GITHUB ACTIVITY
+##  `09` · GITHUB ACTIVITY📊
 
 <div align="center">
 
